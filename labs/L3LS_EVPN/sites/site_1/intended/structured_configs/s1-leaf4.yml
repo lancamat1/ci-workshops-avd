@@ -1,6 +1,7 @@
 aaa_root:
   disabled: true
 config_end: true
+dns_domain: atd.lab
 enable_password:
   disabled: true
 ethernet_interfaces:
